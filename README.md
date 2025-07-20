@@ -1,6 +1,7 @@
 # WELCOME TO THE SPACE INVADERS GAME 2.0!!!
 
 In this updated version of the game, you can do more than ever before. Most importantly, you can **cheat**, **undo**, and **choose a difficulty level**.
+Run using "gradle clean build run"
 
 ---
 
